@@ -1,6 +1,6 @@
 # DebatePro
 
-This example website contains the code for DebatePro from [Meet DebatePro](http://meetsamantha.ai), and provides a simple way to get started writing [SocialAGI](https://github.com/opensouls/SocialAGI) code and create your own AI soul.
+This example website contains the code for DebatePro from [Meet DebatePro], and provides a simple way to get started writing [SocialAGI](https://github.com/opensouls/SocialAGI) code and create your own AI soul. In this case, we create a two debaters who argue with each other with utilitarian and deontological philosophies each
 
 
 
