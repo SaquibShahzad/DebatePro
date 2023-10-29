@@ -37,7 +37,7 @@ function Chat() {
           <h1
             className={`text-4xl text-white font-semibold mb-4 text-center pb-7 orbitron`}
           >
-            Social AGI
+            Debate Pro
           </h1>
           <Messages
             handleMessageChange={handleMessageChange}
